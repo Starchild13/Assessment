@@ -164,7 +164,7 @@ fun SignInScreen(navController: NavController?) {
 
             )
         ) {
-            Text(text = stringResource(R.string.sign_up))
+            Text(text = stringResource(R.string.sign_in))
         }
         Spacer(modifier = Modifier.height(8.dp))
 
