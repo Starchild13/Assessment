@@ -12,6 +12,7 @@ import com.starchild13.signin.Presentation.CreateScreen
 import com.starchild13.signin.Presentation.SignInScreen
 import com.starchild13.signin.ui.theme.SignInTheme
 
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -38,5 +39,6 @@ fun GreetingPreview() {
     SignInTheme {
         // Preview the SignInScreen without NavController
         SignInScreen(navController = null) // Pass null or a dummy NavController
+
     }
 }

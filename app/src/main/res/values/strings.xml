@@ -6,12 +6,13 @@
     <string name="log_in">Log In</string>
     <string name="already_have_account">Already have an account? </string>
     <string name="log_in_action">Log in</string>
-    <string name="sign_in">Sign In</string>
+    <string name="sign_in">Sign in</string>
     <string name="remember_me">Remember me</string>
-    <string name="forgot_password">Forgot Password</string>
+    <string name="forgot_password">Forgot Password?</string>
     <string name="do_not_have_account">Don\'t have a account</string>
     <string name="sign_up">Sign up</string>
-    <string name="log_in_clickable">"Log In "</string>
+    <string name="log_in_clickable"><u>Log in </u></string>
+    <string name="accept_terms">I accept the terms and privacy policy.</string>
     <!-- Add other strings as needed -->
     </resources>
 
